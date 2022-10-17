@@ -100,7 +100,7 @@
 </p>
 
 ## Latest Work Experience
-#### NTT Data
+#### NTT Data Europe & LATAM
 - **Expert Designer | Engineering & Analytics** (January 2022 - Present)
 
 #### Anheuser-Busch InBev
