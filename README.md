@@ -59,9 +59,10 @@
 
 **Data Processing & ETL**
 <p align='left'>
-  <a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/Pandas-3670A0.svg?&style=for-the-badge&logo=pandas&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://spark.apache.org/docs/latest/api/python/"><img src="https://img.shields.io/badge/Pyspark-orange.svg?&style=for-the-badge&logo=apache-spark&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href=""><img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/Pandas-3670A0.svg?&style=for-the-badge&logo=pandas&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.getdbt.com/"><img src="https://img.shields.io/badge/dbt-de5d40.svg?&style=for-the-badge&logo=dbt&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 **Data Visualization & Dynamic Apps**
@@ -91,36 +92,11 @@
  <a href=""><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-**Interested in**
+**Infrastructure as Code**
 <p align='left'>
-<a href="https://www.getdbt.com/"><img src="https://img.shields.io/badge/dbt-de5d40.svg?&style=for-the-badge&logo=dbt&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://aws.amazon.com/cloudformation/"><img src="https://img.shields.io/badge/cloudformation-878280.svg?&style=for-the-badge&logo=amazon-aws-cloudformation&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href=""><img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href=""><img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-## Latest Work Experience
-#### NTT Data Europe & LATAM
-- **Expert Designer | Engineering & Analytics** (January 2022 - Present)
-
-#### Anheuser-Busch InBev
-- **People Data Analytics Engineer** (January 2021 - January 2022)
-
-#### Telefonica de Argentina S.A
-- **Market Insights Analyst** (December 2019 - January 2021)
-
-- **International Trade and Reporting Analyst** (February 2017 - December 2019)
-
-## Education
-- **Cloud Data Engineering** at ITBA Universidad (2022-2023)
-
-- **Big Data Diploma** at ITBA Universidad (2020-2020)
-
-- **Markting and International Trade** at Universidad Argentina de la Empresa (2010-2014)
-
-
-## Languages
-- **Certificate of Proficiency in English** at Cambrigde University
 
 ## GitHub Contribution
 ![Snake animation](https://github.com/gndaniela/gndaniela/blob/output/github-contribution-grid-snake.svg)
