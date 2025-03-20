@@ -1,9 +1,16 @@
 <h1 align='center'>  👩🏻‍💻 </h1>
 
-<p align='center'>
-  Experienced in Data Engineering, Data Analytics and BI projects. Working remotely from Buenos Aires, Argentina.
-</p>
+<h2 align='center'>  Data Engineer </h2>
 
+<div style="text-align: center;">
+  <p align='center'>Expertise in designing, developing and maintaining robust and scalable data pipelines to drive business growth.</p>
+  <p align='center'>Constantly driven to learn through hands-on experience and eager to explore cutting-edge AI solutions.</p>
+  <br>
+  <p align='center'>Working globally remote, primarily Argentina-based.</p>
+</div>
+
+<br>
+<br>
 
 <p align='center'>
   <a href="https://www.linkedin.com/in/gndaniela/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -55,6 +62,8 @@
   <a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/PostgreSQL-blue.svg?&style=for-the-badge&logo=postgresql&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://aws.amazon.com/redshift/"><img src="https://img.shields.io/badge/Redshift-878280.svg?&style=for-the-badge&logo=t&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://delta.io/"><img src="https://img.shields.io/badge/delta_lake-%230db7ed.svg?&style=for-the-badge&logo=delta&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.snowflake.com/"><img src="https://img.shields.io/badge/Snowflake-29B5E8?&style=for-the-badge&logo=snowflake&logoColor=fff" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+
 </p>
 
 **Data Processing & ETL**
