@@ -108,4 +108,4 @@
 
 
 ## GitHub Contribution
-![Snake animation](https://github.com/gndaniela/gndaniela/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/gndaniela/gndaniela/blob/output/ocean.gif)
